@@ -1,0 +1,31 @@
+.container{
+
+    margin-top: 150px;
+    margin-left: auto;
+    width: 90%;
+    height: 300px;
+    
+}
+
+
+.cont{
+    height: 100%;
+    width: 15%;
+    margin-left: 4%;
+    background-color: #f9f9fd;
+    float: left;
+    text-align: center;
+}
+
+
+.img{
+
+    margin-top: 20%;
+}
+
+h4{
+
+    font-size: 20px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+}
